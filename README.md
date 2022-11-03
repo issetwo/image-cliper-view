@@ -6,7 +6,7 @@
 
 Tag input form for SwiftUI.
 
-<!--![](screenshot.gif)-->
+![](screenshot.gif)
 
 ## Table of Contents
 
