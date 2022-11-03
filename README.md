@@ -85,8 +85,8 @@ struct ProfileEditImage: View {
 
 ## Release History
 
-* 0.1.0
-    * Work in progress
+* 1.0.0
+    * New release
 
 ## Meta
 
