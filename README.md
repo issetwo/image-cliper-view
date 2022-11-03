@@ -4,7 +4,8 @@
 [![Build Status][travis-image]][travis-url]
 [![License][license-image]][license-url]
 
-Tag input form for SwiftUI.
+Image clipping view for SwiftUI.
+Although it is a circle on the screen, cut it into a square.
 
 ![](Resources/preview.gif)
 
